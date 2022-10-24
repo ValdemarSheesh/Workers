@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Workers</string>
+    <string name="text_view_detail_info">Детальная информация</string>
+    <string name="text_name">Имя: %s</string>
+    <string name="text_surname">Фамилия: %s</string>
+    <string name="text_birthday">Дата рождения: %s</string>
+    <string name="text_age">Возраст: %s</string>
+    <string name="text_speciality">Специальность: %s</string>
+</resources>
